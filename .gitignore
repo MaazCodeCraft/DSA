@@ -50,3 +50,6 @@ Makefile
 *.suo
 *.user
 .vs/
+.qodo
+.clang-format
+.vscode/
