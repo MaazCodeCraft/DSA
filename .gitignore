@@ -55,3 +55,7 @@ Makefile
 
 # Other
 .qodo/
+
+# Progress tracking (personal use)
+TOPICS_COVERED.md
+SOLVED_QUESTIONS.md
