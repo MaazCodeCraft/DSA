@@ -12,11 +12,13 @@ bin/
 obj/
 
 # IDE files
-.vscode/launch.json
-.vscode/tasks.json
+.vscode/
 *.swp
 *.swo
 *~
+
+# Code formatting
+.clang-format
 
 # OS generated files
 .DS_Store
@@ -50,6 +52,6 @@ Makefile
 *.suo
 *.user
 .vs/
-.qodo
-.clang-format
-.vscode/
+
+# Other
+.qodo/
