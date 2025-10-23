@@ -19,3 +19,10 @@
 - Assignment operators (=, +=, -=, *=, /=)
 - Relational operators (>, <, >=, <=, ==, !=)
 - Logical operators (&&, ||, !)
+
+## 04 - Conditional Statement
+- If-else statements
+- Else-if ladder
+- Ternary operator
+- Switch statements
+- Nested conditions
