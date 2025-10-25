@@ -26,3 +26,11 @@
 - Ternary operator
 - Switch statements
 - Nested conditions
+
+## 05 - Loops
+- For loop
+- While loop
+- Do-while loop
+- Break statement
+- Continue statement
+- Loop optimization techniques

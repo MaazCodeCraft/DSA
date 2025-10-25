@@ -25,6 +25,17 @@
 4. Vowel/Consonant Checker - Switch statement implementation
 5. Basic Calculator - Switch-based calculator with four operations
 
+### 05 - Loops
+1. Basic For Loop - Simple for loop demonstration
+2. Print Numbers 1 to N - User input based number printing
+3. Sum of First N Natural Numbers - Calculate sum using loops
+4. While Loop - Basic while loop implementation
+5. Do-While Loop - Do-while loop demonstration
+6. Break Statement - Loop termination using break
+7. Continue Statement - Skip iteration using continue
+8. Prime Number Checker - Basic prime number algorithm
+9. Optimized Prime Number Checker - Efficient prime checking algorithm
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -53,7 +64,26 @@
 4. Pre-increment Output Prediction - Guess output with pre-increment in condition
 5. Armstrong Number Checker - Check if 3-digit number is Armstrong number
 
+### 05 - Loops
+
+#### Practice Questions
+1. Print Pattern - Print 4x4 star pattern using loops
+2. Print Numbers in Reverse - Print numbers from N to 1
+3. Sum of Digits - Calculate sum of all digits in a number
+4. Sum of Odd Digits - Calculate sum of odd digits only
+5. Print Digits - Print each digit of a number separately
+6. Reverse Number - Reverse the digits of a number
+7. Do-While with Break - Input numbers until multiple of 10 (break)
+8. Do-While with Continue - Skip multiples of 10 (continue)
+
+#### Assignment Questions
+1. Factorial Calculator - Calculate factorial of a number
+2. Multiplication Table - Print multiplication table of a number
+3. Armstrong Number Checker - Check if number is Armstrong using loops
+4. Prime Numbers in Range - Print all prime numbers up to N
+5. Fibonacci Series - Generate first N Fibonacci numbers
+
 ## Summary
-- **Total Questions Solved: 28**
-- **Lectures: 15 questions**
-- **Assignments: 13 questions** (9 assignment questions + 4 practice questions)
+- **Total Questions Solved: 50**
+- **Lectures: 24 questions**
+- **Assignments: 26 questions** (14 assignment questions + 12 practice questions)
