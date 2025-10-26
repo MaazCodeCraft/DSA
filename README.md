@@ -9,6 +9,7 @@ Data Structures and Algorithms in C++.
 3. [Operators](DSA/Lectures/03-Operators/)
 4. [Conditional Statement](DSA/Lectures/04-Conditional%20Statement/)
 5. [Loops](DSA/Lectures/05-Loops/)
+6. [Patterns](DSA/Lectures/06-Patterns/)
 
 ## Assignments
 
@@ -17,3 +18,4 @@ Data Structures and Algorithms in C++.
 3. [Operators](DSA/Assignments/03-Operators/)
 4. [Conditional Statement](DSA/Assignments/04-Conditional%20Statement/)
 5. [Loops](DSA/Assignments/05-Loops/)
+6. [Patterns](DSA/Assignments/06-Patterns/)

@@ -34,3 +34,11 @@
 - Break statement
 - Continue statement
 - Loop optimization techniques
+
+## 06 - Patterns
+- Nested loops
+- Star patterns
+- Number patterns
+- Character patterns
+- Hollow patterns
+- Complex geometric patterns
