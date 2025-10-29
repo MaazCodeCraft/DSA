@@ -42,3 +42,11 @@
 - Character patterns
 - Hollow patterns
 - Complex geometric patterns
+
+## 07 - Functions
+- Function definition and declaration
+- Forward declaration
+- Function parameters and arguments
+- Return types
+- Local and global scope
+- Function overloading

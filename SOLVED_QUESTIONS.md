@@ -54,6 +54,14 @@
 9. Diamond Pattern - Diamond shape with stars
 10. Butterfly Pattern - Butterfly wing design
 
+### 07 - Functions
+
+1. Basic Function - Simple function definition and calling
+2. Forward Declaration - Function declaration before definition
+3. Function Parameters - Functions with parameters and return values
+4. Scope (Local & Global) - Variable scope demonstration
+5. Function Overloading - Multiple functions with same name
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -117,8 +125,29 @@
 3. Hollow Diamond Pattern - Diamond outline only
 4. Palindrome Number Pattern - Palindromic number pyramid
 
+### 07 - Functions
+
+#### Practice Questions
+
+1. Product Function - Function to multiply two numbers
+2. Even Number Check - Function to check if number is even
+3. Factorial Calculator - Function to calculate factorial
+4. Prime Number Check - Function to check if number is prime
+5. Paired Digits Check - Function to check if digits come in pairs
+6. Input Type Checker - Function to identify character, digit, or invalid
+7. Binomial Coefficient - Function to calculate nCr using factorial
+8. Prime Numbers in Range - Function to print all primes up to N
+
+#### Assignment Questions
+
+1. Palindrome Check - Function to check if a number is palindrome
+2. Sum of Digits - Function to calculate sum of digits
+3. (a+b)² Formula - Function to calculate (a+b)²
+4. Largest of Three Numbers - Function to find largest among three numbers
+5. Next Character - Function to get next character in sequence
+
 ## Summary
 
-- **Total Questions Solved: 64**
-- **Lectures: 34 questions**
-- **Assignments: 30 questions** (18 assignment questions + 12 practice questions)
+- **Total Questions Solved: 82**
+- **Lectures: 39 questions**
+- **Assignments: 43 questions** (23 assignment questions + 20 practice questions)
