@@ -10,6 +10,7 @@ Data Structures and Algorithms in C++.
 4. [Conditional Statement](DSA/Lectures/04-Conditional%20Statement/)
 5. [Loops](DSA/Lectures/05-Loops/)
 6. [Patterns](DSA/Lectures/06-Patterns/)
+7. [Functions](DSA/Lectures/07-Functions/)
 
 ## Assignments
 
@@ -19,3 +20,4 @@ Data Structures and Algorithms in C++.
 4. [Conditional Statement](DSA/Assignments/04-Conditional%20Statement/)
 5. [Loops](DSA/Assignments/05-Loops/)
 6. [Patterns](DSA/Assignments/06-Patterns/)
+7. [Functions](DSA/Assignments/07-Functions/)
