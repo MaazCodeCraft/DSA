@@ -62,6 +62,12 @@
 4. Scope (Local & Global) - Variable scope demonstration
 5. Function Overloading - Multiple functions with same name
 
+### 08 - Binary Number System
+
+1. Data Types & Modifiers - Checking sizes of different data types
+2. Binary to Decimal Conversion - Convert binary number to decimal
+3. Decimal to Binary Conversion - Convert decimal number to binary
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -146,8 +152,14 @@
 4. Largest of Three Numbers - Function to find largest among three numbers
 5. Next Character - Function to get next character in sequence
 
+### 08 - Binary Numbers
+
+#### Assignment Questions
+
+1. Decimal to Octal Conversion - Convert decimal number to octal
+
 ## Summary
 
-- **Total Questions Solved: 82**
-- **Lectures: 39 questions**
-- **Assignments: 43 questions** (23 assignment questions + 20 practice questions)
+- **Total Questions Solved: 86**
+- **Lectures: 42 questions**
+- **Assignments: 44 questions** (24 assignment questions + 20 practice questions)

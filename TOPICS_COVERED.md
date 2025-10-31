@@ -50,3 +50,10 @@
 - Return types
 - Local and global scope
 - Function overloading
+
+## 08 - Binary Number System
+- Data type modifiers and sizes
+- Binary number system concepts
+- Binary to decimal conversion
+- Decimal to binary conversion
+- Number system fundamentals
