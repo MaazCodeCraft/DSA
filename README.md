@@ -12,6 +12,7 @@ Data Structures and Algorithms in C++.
 6. [Patterns](DSA/Lectures/06-Patterns/)
 7. [Functions](DSA/Lectures/07-Functions/)
 8. [Binary Number System](DSA/Lectures/08-Binary%20Number%20System/)
+9. [Pointers](DSA/Lectures/09-Pointers/)
 
 ## Assignments
 
@@ -23,3 +24,4 @@ Data Structures and Algorithms in C++.
 6. [Patterns](DSA/Assignments/06-Patterns/)
 7. [Functions](DSA/Assignments/07-Functions/)
 8. [Binary Numbers](DSA/Assignments/08-Binary%20Numbers/)
+9. [Pointers](DSA/Assignments/09-Pointers/)

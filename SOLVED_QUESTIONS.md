@@ -54,6 +54,16 @@
 9. Diamond Pattern - Diamond shape with stars
 10. Butterfly Pattern - Butterfly wing design
 
+### 09 - Pointers
+
+1. Address-of Operator - Getting memory address of variables
+2. Basic Pointers - Pointer declaration and usage
+3. Pointer to Pointer - Double pointer concept
+4. Dereference Operator - Accessing value through pointer
+5. NULL Pointer - Understanding null pointer behavior
+6. Pass by Value - Function parameter passing by value
+7. Pass by Reference - Function parameter passing by reference
+
 ### 07 - Functions
 
 1. Basic Function - Simple function definition and calling
@@ -158,8 +168,20 @@
 
 1. Decimal to Octal Conversion - Convert decimal number to octal
 
+### 09 - Pointers
+
+#### Practice Questions
+
+1. Pointer Assignment - Understanding pointer reassignment
+
+#### Assignment Questions
+
+1. Basic Pointer Dereference - Simple pointer value access
+2. Pointer and Reference Operations - Complex pointer arithmetic
+3. Pass by Reference Function - Function modifying values through references
+
 ## Summary
 
-- **Total Questions Solved: 86**
-- **Lectures: 42 questions**
-- **Assignments: 44 questions** (24 assignment questions + 20 practice questions)
+- **Total Questions Solved: 90**
+- **Lectures: 49 questions**
+- **Assignments: 41 questions** (27 assignment questions + 21 practice questions)

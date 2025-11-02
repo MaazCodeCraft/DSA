@@ -43,6 +43,15 @@
 - Hollow patterns
 - Complex geometric patterns
 
+## 09 - Pointers
+- Address-of operator (&)
+- Pointer declaration and initialization
+- Pointer to pointer
+- Dereference operator (*)
+- NULL pointers
+- Pass by value vs pass by reference
+- Reference variables
+
 ## 07 - Functions
 - Function definition and declaration
 - Forward declaration
