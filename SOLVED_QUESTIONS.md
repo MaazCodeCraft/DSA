@@ -54,16 +54,6 @@
 9. Diamond Pattern - Diamond shape with stars
 10. Butterfly Pattern - Butterfly wing design
 
-### 09 - Pointers
-
-1. Address-of Operator - Getting memory address of variables
-2. Basic Pointers - Pointer declaration and usage
-3. Pointer to Pointer - Double pointer concept
-4. Dereference Operator - Accessing value through pointer
-5. NULL Pointer - Understanding null pointer behavior
-6. Pass by Value - Function parameter passing by value
-7. Pass by Reference - Function parameter passing by reference
-
 ### 07 - Functions
 
 1. Basic Function - Simple function definition and calling
@@ -77,6 +67,33 @@
 1. Data Types & Modifiers - Checking sizes of different data types
 2. Binary to Decimal Conversion - Convert binary number to decimal
 3. Decimal to Binary Conversion - Convert decimal number to binary
+
+### 09 - Pointers
+
+1. Address-of Operator - Getting memory address of variables
+2. Basic Pointers - Pointer declaration and usage
+3. Pointer to Pointer - Double pointer concept
+4. Dereference Operator - Accessing value through pointer
+5. NULL Pointer - Understanding null pointer behavior
+6. Pass by Value - Function parameter passing by value
+7. Pass by Reference - Function parameter passing by reference
+
+### 10 - Array-I
+
+1. Array Creation and Initialization - Understanding different ways to declare and initialize arrays
+2. Dynamic Array Input/Output - Interactive array operations with user input
+3. Find Largest Element - Linear search for maximum value
+4. Find Smallest Element - Linear search for minimum value
+5. Arrays Passed by Reference - Understanding array parameter passing
+6. Linear Search Algorithm - Sequential search implementation
+7. Array Reversal (Extra Space) - Reverse using auxiliary array
+8. Array Reversal (Two Pointers) - In-place reversal algorithm
+9. Binary Search Algorithm - Logarithmic search in sorted arrays
+10. Array vs Pointer Behavior - Understanding array name as constant pointer
+11. Pointer Arithmetic Basics - Understanding pointer increment/decrement
+12. Array Access via Pointer Arithmetic - Alternative array indexing
+13. Pointer Difference Calculation - Distance between array elements
+14. Pointer Comparison Operations - Relational operations on pointers
 
 ## Assignments
 
@@ -180,8 +197,18 @@
 2. Pointer and Reference Operations - Complex pointer arithmetic
 3. Pass by Reference Function - Function modifying values through references
 
+### 10 - Array-I
+
+#### Assignment Questions
+
+1. Sum and Product Calculator - Calculate sum and product of array elements
+2. Swap Maximum and Minimum Elements - Find and swap extreme values
+3. Find Unique Elements - Identify non-duplicate elements
+4. Array Intersection - Find common elements between two arrays
+5. Minimum Coin Change Problem - Greedy algorithm for coin change
+
 ## Summary
 
-- **Total Questions Solved: 90**
-- **Lectures: 49 questions**
-- **Assignments: 41 questions** (27 assignment questions + 21 practice questions)
+- **Total Questions Solved: 109**
+- **Lectures: 63 questions**
+- **Assignments: 46 questions** (32 assignment questions + 21 practice questions)
