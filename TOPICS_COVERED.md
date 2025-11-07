@@ -85,3 +85,13 @@
 - Array manipulation and reversal
 - Pointer arithmetic with arrays
 - Memory management concepts
+
+## 11 - Array-II
+
+- Subarray generation and analysis
+- Maximum subarray sum algorithms
+- Kadane's Algorithm implementation
+- Stock trading optimization problems
+- Two-pointer technique applications
+- Rainwater trapping algorithms
+- Time and space complexity optimization

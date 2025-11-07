@@ -95,6 +95,15 @@
 13. Pointer Difference Calculation - Distance between array elements
 14. Pointer Comparison Operations - Relational operations on pointers
 
+### 11 - Array-II
+
+1. Print All Subarrays - Generate and display all possible subarrays
+2. Maximum Subarray Sum (Brute Force) - O(n³) approach for maximum sum
+3. Maximum Subarray Sum (Optimized) - O(n²) space-time optimization
+4. Maximum Subarray Sum (Kadane's Algorithm) - O(n) optimal solution
+5. Buy and Sell Stocks - Single transaction profit maximization
+6. Trapping Rainwater - Calculate trapped water between elevations
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -207,8 +216,16 @@
 4. Array Intersection - Find common elements between two arrays
 5. Minimum Coin Change Problem - Greedy algorithm for coin change
 
+### 11 - Array-II
+
+#### Assignment Questions
+
+1. Contains Duplicate Checker - Check if all elements have duplicates
+2. Binary Search in Rotated Sorted Array - Search in rotated array
+3. Maximum Product Subarray - Find maximum product of contiguous elements
+
 ## Summary
 
-- **Total Questions Solved: 109**
-- **Lectures: 63 questions**
-- **Assignments: 46 questions** (32 assignment questions + 21 practice questions)
+- **Total Questions Solved: 118**
+- **Lectures: 69 questions**
+- **Assignments: 49 questions** (35 assignment questions + 21 practice questions)
