@@ -104,6 +104,14 @@
 5. Buy and Sell Stocks - Single transaction profit maximization
 6. Trapping Rainwater - Calculate trapped water between elevations
 
+### 12 - Basic Sorting Algorithms
+
+1. Bubble Sort - Basic comparison-based sorting algorithm
+2. Selection Sort - Find minimum and place at beginning
+3. Insertion Sort - Insert elements in correct position
+4. Counting Sort - Non-comparison based sorting
+5. Built-in Sort Functions - Using STL sort algorithms
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -224,8 +232,21 @@
 2. Binary Search in Rotated Sorted Array - Search in rotated array
 3. Maximum Product Subarray - Find maximum product of contiguous elements
 
+### 12 - Basic Sorting Algorithms
+
+#### Practice Questions
+
+1. Character Array Sorting (Descending) - Sort characters in descending order
+
+#### Assignment Questions
+
+1. Optimized Bubble Sort (Descending) - Bubble sort with early termination
+2. Selection Sort (Descending) - Find maximum and place at beginning
+3. Insertion Sort (Descending) - Insert in descending order
+4. Counting Sort (Descending) - Non-comparison sort in reverse order
+
 ## Summary
 
-- **Total Questions Solved: 118**
-- **Lectures: 69 questions**
-- **Assignments: 49 questions** (35 assignment questions + 21 practice questions)
+- **Total Questions Solved: 128**
+- **Lectures: 74 questions**
+- **Assignments: 54 questions** (39 assignment questions + 22 practice questions)

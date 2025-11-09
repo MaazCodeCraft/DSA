@@ -15,6 +15,7 @@ Data Structures and Algorithms in C++.
 9. [Pointers](DSA/Lectures/09-Pointers/)
 10. [Array-I](DSA/Lectures/10-Array-I/)
 11. [Array-II](DSA/Lectures/11-Array-II/)
+12. [Basic Sorting Algorithms](DSA/Lectures/12-Basic%20Sorting%20Algorithms/)
 
 ## Assignments
 
@@ -29,3 +30,4 @@ Data Structures and Algorithms in C++.
 9. [Pointers](DSA/Assignments/09-Pointers/)
 10. [Array-I](DSA/Assignments/10-Array-I/)
 11. [Array-II](DSA/Assignments/11-Array-II/)
+12. [Basic Sorting Algorithms](DSA/Assignments/12-Basic%20Sorting%20Algorithms/)

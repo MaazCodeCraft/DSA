@@ -95,3 +95,14 @@
 - Two-pointer technique applications
 - Rainwater trapping algorithms
 - Time and space complexity optimization
+
+## 12 - Basic Sorting Algorithms
+
+- Bubble Sort algorithm and optimization
+- Selection Sort implementation
+- Insertion Sort technique
+- Counting Sort for integer arrays
+- Built-in sort functions
+- Time and space complexity analysis
+- Algorithm stability and adaptability
+- Comparison of sorting techniques
