@@ -1,0 +1,33 @@
+#include <iostream>
+using namespace std;
+
+void swapping(int &a, int &b) {
+  int temp = a;
+  a = b;
+  b = temp;
+}
+
+void printArr(int *arr, int n) {
+  for (int i = 0; i < n; i++) {
+    cout << arr[i] << " ";
+  }
+}
+
+void insertionSort(int *arr, int n) {
+  for (int i = 1; i < n; i++) {
+    int curr = arr[i];
+    int prev = i - 1;
+    while (prev >= 0 && arr[prev] < curr) {
+      swapping(arr[prev], arr[prev + 1]);
+      prev--;
+    }
+  }
+  printArr(arr, n);
+}
+
+int main() {
+  int arr[] = {3, 6, 2, 1, 8, 7, 4, 5, 3, 1};
+  int n = sizeof(arr) / sizeof(int);
+  insertionSort(arr, n);
+  return 0;
+}
