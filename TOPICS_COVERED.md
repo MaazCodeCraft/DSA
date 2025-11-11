@@ -106,3 +106,15 @@
 - Time and space complexity analysis
 - Algorithm stability and adaptability
 - Comparison of sorting techniques
+
+## 13 - 2D Arrays
+
+- 2D array creation and initialization
+- Matrix input/output operations
+- Spiral matrix traversal algorithms
+- Diagonal sum calculations and optimizations
+- Linear and binary search in matrices
+- Row and column sum computations
+- Advanced matrix search techniques
+- Pointer arithmetic with 2D arrays
+- Memory layout and function parameter passing

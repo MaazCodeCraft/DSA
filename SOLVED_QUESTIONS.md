@@ -112,6 +112,21 @@
 4. Counting Sort - Non-comparison based sorting
 5. Built-in Sort Functions - Using STL sort algorithms
 
+### 13 - 2D Arrays
+
+1. 2D Array Creation - Basic matrix declaration and initialization
+2. Matrix Input/Output Operations - Dynamic matrix data handling
+3. Spiral Matrix Traversal - Complex traversal pattern implementation
+4. Diagonal Sum (Basic Approach) - Sum of primary and secondary diagonals
+5. Diagonal Sum (Optimized) - Single loop optimization for diagonal sum
+6. Linear Search in 2D Array - Element search with position return
+7. Maximum Row Sum - Find row with maximum sum
+8. Maximum Column Sum - Find column with maximum sum
+9. Binary Search in 2D Array (Approach 1) - Row-wise binary search
+10. Optimized 2D Array Search (Approach 2) - Staircase search algorithm
+11. Matrix Pointer Basics - Understanding 2D array memory layout
+12. Matrix Pointers in Functions - Parameter passing and pointer dereferencing
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -245,8 +260,16 @@
 3. Insertion Sort (Descending) - Insert in descending order
 4. Counting Sort (Descending) - Non-comparison sort in reverse order
 
+### 13 - 2D Arrays
+
+#### Assignment Questions
+
+1. Count Specific Element in Matrix - Count occurrences of target element
+2. Second Row Sum Calculator - Calculate sum of specific row
+3. Matrix Transpose - Convert rows to columns and vice versa
+
 ## Summary
 
-- **Total Questions Solved: 128**
-- **Lectures: 74 questions**
-- **Assignments: 54 questions** (39 assignment questions + 22 practice questions)
+- **Total Questions Solved: 143**
+- **Lectures: 86 questions**
+- **Assignments: 57 questions** (42 assignment questions + 22 practice questions)
