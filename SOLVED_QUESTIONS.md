@@ -267,9 +267,11 @@
 1. Count Specific Element in Matrix - Count occurrences of target element
 2. Second Row Sum Calculator - Calculate sum of specific row
 3. Matrix Transpose - Convert rows to columns and vice versa
+4. Matrix Rotation (90° Clockwise) - Rotate matrix elements by 90 degrees
+5. 1D to 2D Array Conversion - Reshape 1D array into 2D matrix
 
 ## Summary
 
-- **Total Questions Solved: 143**
+- **Total Questions Solved: 145**
 - **Lectures: 86 questions**
-- **Assignments: 57 questions** (42 assignment questions + 22 practice questions)
+- **Assignments: 59 questions** (44 assignment questions + 22 practice questions)
