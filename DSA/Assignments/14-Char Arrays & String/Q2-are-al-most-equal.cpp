@@ -35,7 +35,6 @@ bool areAlmostEqual(string str1, string str2) {
 int main() {
   string str1 = "bank";
   string str2 = "kanb";
-
   cout << boolalpha << areAlmostEqual(str1, str2) << endl;
   return 0;
 }
