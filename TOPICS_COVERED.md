@@ -118,3 +118,13 @@
 - Advanced matrix search techniques
 - Pointer arithmetic with 2D arrays
 - Memory layout and function parameter passing
+
+## 14 - Char Arrays & String
+
+- Character array creation and initialization
+- String input/output operations
+- Case conversion algorithms
+- String reversal and palindrome checking
+- C-style string functions
+- C++ string class operations
+- String comparison and manipulation

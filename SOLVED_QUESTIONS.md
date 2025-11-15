@@ -127,6 +127,21 @@
 11. Matrix Pointer Basics - Understanding 2D array memory layout
 12. Matrix Pointers in Functions - Parameter passing and pointer dereferencing
 
+### 14 - Char Arrays & String
+
+1. Character Array Creation - Different methods to create and initialize character arrays
+2. Character Array Input - Reading single words and complete sentences
+3. Lowercase to Uppercase Conversion - Convert characters to uppercase
+4. Uppercase to Lowercase Conversion - Convert characters to lowercase
+5. Character Array Reversal - Reverse string using two pointers
+6. Palindrome Validation - Check if string reads same forwards and backwards
+7. C-Style String Functions - Using strcpy, strcat, and strcmp
+8. C++ String Input - Using string class for input operations
+9. For-Each Loop with Strings - Modern C++ iteration techniques
+10. String Class Functions - Built-in string manipulation methods
+11. Valid Anagram Checker - Determine if two strings are anagrams
+12. String Comparison Operators - Using relational operators with strings
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -270,8 +285,15 @@
 4. Matrix Rotation (90° Clockwise) - Rotate matrix elements by 90 degrees
 5. 1D to 2D Array Conversion - Reshape 1D array into 2D matrix
 
+### 14 - Char Arrays & String
+
+#### Assignment Questions
+
+1. Vowel Counter in String - Count total vowels in a given string
+2. Almost Equal Strings Checker - Determine if strings can be made equal with at most one swap
+
 ## Summary
 
-- **Total Questions Solved: 145**
-- **Lectures: 86 questions**
-- **Assignments: 59 questions** (44 assignment questions + 22 practice questions)
+- **Total Questions Solved: 159**
+- **Lectures: 98 questions**
+- **Assignments: 61 questions** (46 assignment questions + 22 practice questions)
