@@ -128,3 +128,13 @@
 - C-style string functions
 - C++ string class operations
 - String comparison and manipulation
+
+## 15 - Vectors
+
+- Dynamic memory allocation and deallocation
+- Vector creation and initialization
+- Vector capacity vs size concepts
+- Memory implementation behind vectors
+- Two-pointer technique with vectors
+- 2D vector operations
+- Vector-based algorithm optimization

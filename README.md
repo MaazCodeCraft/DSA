@@ -18,6 +18,7 @@ Data Structures and Algorithms in C++.
 12. [Basic Sorting Algorithms](DSA/Lectures/12-Basic%20Sorting%20Algorithms/)
 13. [2D Arrays](DSA/Lectures/13-2D%20Arrays/)
 14. [Char Arrays & String](DSA/Lectures/14-Char%20Arrays%20&%20String/)
+15. [Vectors](DSA/Lectures/15-Vectors/)
 
 ## Assignments
 
@@ -35,3 +36,4 @@ Data Structures and Algorithms in C++.
 12. [Basic Sorting Algorithms](DSA/Assignments/12-Basic%20Sorting%20Algorithms/)
 13. [2D Arrays](DSA/Assignments/13-2D%20Arrays/)
 14. [Char Arrays & String](DSA/Assignments/14-Char%20Arrays%20&%20String/)
+15. [Vectors](DSA/Assignments/15-Vectors/)

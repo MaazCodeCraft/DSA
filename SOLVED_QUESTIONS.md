@@ -142,6 +142,16 @@
 11. Valid Anagram Checker - Determine if two strings are anagrams
 12. String Comparison Operators - Using relational operators with strings
 
+### 15 - Vectors
+
+1. Dynamic Memory Creation - Understanding heap memory allocation
+2. Dynamic Memory Allocation Behind The Scenes - Memory management internals
+3. 2D Dynamic Array Creation - Multi-dimensional dynamic allocation
+4. Vector Creation and Initialization - Different vector initialization methods
+5. Vector Memory Implementation - Understanding vector capacity and growth
+6. Pair Sum Problem - Two-pointer technique with vectors
+7. 2D Vector Implementation - Working with vector of vectors
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -292,8 +302,16 @@
 1. Vowel Counter in String - Count total vowels in a given string
 2. Almost Equal Strings Checker - Determine if strings can be made equal with at most one swap
 
+### 15 - Vectors
+
+#### Assignment Questions
+
+1. Predict the Output - Understanding vector size and capacity behavior
+2. Find Error Numbers - Identify duplicate and missing number in array
+3. Container With Most Water - Two-pointer technique for area maximization
+
 ## Summary
 
-- **Total Questions Solved: 159**
-- **Lectures: 98 questions**
-- **Assignments: 61 questions** (46 assignment questions + 22 practice questions)
+- **Total Questions Solved: 169**
+- **Lectures: 105 questions**
+- **Assignments: 64 questions** (49 assignment questions + 22 practice questions)
