@@ -152,6 +152,19 @@
 6. Pair Sum Problem - Two-pointer technique with vectors
 7. 2D Vector Implementation - Working with vector of vectors
 
+### 16 - Bit Manipulation
+
+1. Bitwise Operators - Understanding AND, OR, XOR operations
+2. Binary NOT Operator - Understanding bitwise complement
+3. Binary Shift Operators - Left and right shift operations
+4. Even/Odd Check Using Bits - Efficient parity checking
+5. Get ith Bit - Extract specific bit from number
+6. Set ith Bit - Set specific bit to 1
+7. Clear ith Bit - Clear specific bit to 0
+8. Check Power of 2 - Efficient power of 2 detection
+9. Count Set Bits - Count number of 1s in binary representation
+10. Fast Exponentiation - Efficient power calculation using bits
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -310,8 +323,19 @@
 2. Find Error Numbers - Identify duplicate and missing number in array
 3. Container With Most Water - Two-pointer technique for area maximization
 
+### 16 - Bit Manipulation
+
+#### Assignment Questions
+
+1. Predict the Output - Understanding bitwise NOT and right shift operations
+2. Update ith Bit - Modify specific bit to given value
+3. Clear Last i Bits - Clear multiple bits from right
+4. Clear Bits in Range - Clear bits between two positions
+5. Single Number - Find unique element using XOR
+6. XOR Beauty - Complex XOR and OR operations
+
 ## Summary
 
-- **Total Questions Solved: 169**
-- **Lectures: 105 questions**
-- **Assignments: 64 questions** (49 assignment questions + 22 practice questions)
+- **Total Questions Solved: 185**
+- **Lectures: 115 questions**
+- **Assignments: 70 questions** (55 assignment questions + 22 practice questions)

@@ -138,3 +138,13 @@
 - Two-pointer technique with vectors
 - 2D vector operations
 - Vector-based algorithm optimization
+
+## 16 - Bit Manipulation
+
+- Bitwise operators (AND, OR, XOR, NOT)
+- Binary shift operations (left shift, right shift)
+- Bit manipulation techniques
+- Individual bit operations (get, set, clear)
+- Power of 2 checking algorithms
+- Bit counting algorithms
+- Fast exponentiation using bit manipulation
