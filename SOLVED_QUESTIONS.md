@@ -165,6 +165,28 @@
 9. Count Set Bits - Count number of 1s in binary representation
 10. Fast Exponentiation - Efficient power calculation using bits
 
+### 17 - OOP Part-I
+
+1. Classes and Objects - Basic class definition and object creation
+2. Access Modifiers - Understanding public, private, and protected access
+3. Default Constructor - Automatic constructor creation and usage
+4. Parameterized Constructor - Constructor with parameters
+5. This Pointer - Understanding object self-reference
+6. Setters and Getters - Encapsulation through accessor methods
+7. Copy Constructor - Object copying mechanisms
+8. Shallow Copy - Understanding shallow copying issues
+9. Deep Copy - Implementing proper object copying
+10. Destructor - Object cleanup and resource management
+11. Const Functions - Immutable member functions
+12. Composition - "Has-a" relationship between classes
+13. Aggregation - Weak "has-a" relationship
+14. Inheritance - Basic "is-a" relationship
+15. Mode of Inheritance - Public, private, protected inheritance
+16. Single Inheritance - One parent, one child relationship
+17. Multi-level Inheritance - Chain of inheritance
+18. Multiple Inheritance - Multiple parent classes
+19. Hierarchical Inheritance - One parent, multiple children
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -334,8 +356,14 @@
 5. Single Number - Find unique element using XOR
 6. XOR Beauty - Complex XOR and OR operations
 
+### 17 - OOP Part-I
+
+#### Assignment Questions
+
+1. User Class Activity - Complete class implementation with validation
+
 ## Summary
 
-- **Total Questions Solved: 185**
-- **Lectures: 115 questions**
-- **Assignments: 70 questions** (55 assignment questions + 22 practice questions)
+- **Total Questions Solved: 205**
+- **Lectures: 134 questions**
+- **Assignments: 71 questions** (56 assignment questions + 22 practice questions)

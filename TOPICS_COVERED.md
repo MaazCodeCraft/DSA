@@ -148,3 +148,16 @@
 - Power of 2 checking algorithms
 - Bit counting algorithms
 - Fast exponentiation using bit manipulation
+
+## 17 - OOP Part-I
+
+- Classes and objects fundamentals
+- Access modifiers (public, private, protected)
+- Constructors (default, parameterized, copy)
+- This pointer and memory management
+- Setters and getters (encapsulation)
+- Shallow vs deep copy concepts
+- Destructors and object lifecycle
+- Const functions and immutability
+- Object relationships (composition, aggregation)
+- Inheritance types and modes

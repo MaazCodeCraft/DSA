@@ -20,6 +20,7 @@ Data Structures and Algorithms in C++.
 14. [Char Arrays & String](DSA/Lectures/14-Char%20Arrays%20&%20String/)
 15. [Vectors](DSA/Lectures/15-Vectors/)
 16. [Bit Manipulation](DSA/Lectures/16-Bit%20Manipulation/)
+17. [OOP Part-I](DSA/Lectures/17-OOP%20Part-I/)
 
 ## Assignments
 
@@ -39,3 +40,4 @@ Data Structures and Algorithms in C++.
 14. [Char Arrays & String](DSA/Assignments/14-Char%20Arrays%20&%20String/)
 15. [Vectors](DSA/Assignments/15-Vectors/)
 16. [Bit Manipulation](DSA/Assignments/16-Bit%20Manipulation/)
+17. [OOP Part-I](DSA/Assignments/17-OOP%20Part-I/)
