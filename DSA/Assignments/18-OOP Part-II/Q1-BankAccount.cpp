@@ -10,42 +10,40 @@ public:
   BankAccount(string accNo, double bal) {
     setAccountNumber(accNo);
     if (bal <= 0) {
-      throw invalid_argument("Initial balance cannot be negative.");
-      return;
-    } else {
-      deposit(bal);
-      cout << "Account created successfully!\n";
+      throw invalid_argument("Initial balance must be positive.");
     }
+    deposit(bal);
+    cout << "Account created successfully!\n";
   }
 
   void setAccountNumber(string acc) {
     if (acc.length() < 10) {
       throw invalid_argument(
           "Invalid Account Number! Must be at least 10 digits.");
-      return;
-    } else {
-      accountNumber = acc;
     }
+    accountNumber = acc;
   }
 
   void deposit(double amount) {
     if (amount <= 0) {
-      cout << "Balance cannot be negative.\n";
+      cout << "Deposit amount must be positive.\n";
       return;
-    } else {
-      balance += amount;
-      cout << "Successfully Deposited: " << amount << endl;
     }
+    balance += amount;
+    cout << "Successfully Deposited: " << amount << endl;
   }
 
   void withdraw(double amount) {
+    if (amount <= 0) {
+      cout << "Withdraw amount must be positive.\n";
+      return;
+    }
     if (amount > balance) {
       cout << "Insufficient balance for this withdrawal.\n";
       return;
-    } else {
-      balance -= amount;
-      cout << "Successfully Withdrawn: " << amount << endl;
     }
+    balance -= amount;
+    cout << "Successfully Withdrawn: " << amount << endl;
   }
   double getBalance() { return balance; }
 
