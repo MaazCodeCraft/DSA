@@ -161,3 +161,14 @@
 - Const functions and immutability
 - Object relationships (composition, aggregation)
 - Inheritance types and modes
+
+## 18 - OOP Part-II
+
+- Polymorphism (compile-time and runtime)
+- Function overloading and operator overloading
+- Virtual functions and function overriding
+- Pure virtual functions and abstraction
+- Static keyword applications
+- Friend functions and classes
+- Function and class templates
+- Generic programming concepts

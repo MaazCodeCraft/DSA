@@ -187,6 +187,20 @@
 18. Multiple Inheritance - Multiple parent classes
 19. Hierarchical Inheritance - One parent, multiple children
 
+### 18 - OOP Part-II
+
+1. Polymorphism - Function Overloading - Compile-time polymorphism
+2. Polymorphism - Operator Overloading - Custom operator behavior
+3. Polymorphism - Runtime Function Overriding - Method overriding without virtual
+4. Polymorphism - Runtime Virtual Function - Late binding with virtual
+5. Abstraction - Pure Virtual Function - Abstract classes and interfaces
+6. Static Keyword in Function - Static local variables
+7. Static Keyword in Class - Static data members
+8. Static Keyword in Object - Static member functions
+9. Friend Function and Class - Breaking encapsulation selectively
+10. Templates in Function - Generic function programming
+11. Template in Class - Generic class programming
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -362,8 +376,20 @@
 
 1. User Class Activity - Complete class implementation with validation
 
+### 18 - OOP Part-II
+
+#### Assignment Questions
+
+1. Assignment Activity - Comprehensive OOP implementation
+2. Guess the Output - Constructor/Destructor Order - Understanding object lifecycle
+3. Guess the Output - Advanced Polymorphism - Complex inheritance scenarios
+4. BankAccount System - Real-world OOP application
+5. Student and Person Relation - Inheritance implementation
+6. Case Study 1 - Complex OOP scenario analysis
+7. Case Study 2 - Advanced OOP design patterns
+
 ## Summary
 
-- **Total Questions Solved: 205**
-- **Lectures: 134 questions**
-- **Assignments: 71 questions** (56 assignment questions + 22 practice questions)
+- **Total Questions Solved: 223**
+- **Lectures: 145 questions**
+- **Assignments: 78 questions** (63 assignment questions + 22 practice questions)
