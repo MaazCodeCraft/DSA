@@ -172,3 +172,14 @@
 - Friend functions and classes
 - Function and class templates
 - Generic programming concepts
+
+## 19 - Recursion Part-I
+
+- Recursion fundamentals and concepts
+- Base case and recursive case design
+- Stack overflow and memory management
+- Mathematical recursion (factorial, fibonacci)
+- Array processing with recursion
+- Search algorithms using recursion
+- Power calculation optimization
+- Recursive problem-solving patterns

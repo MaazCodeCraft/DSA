@@ -22,6 +22,7 @@ Data Structures and Algorithms in C++.
 16. [Bit Manipulation](DSA/Lectures/16-Bit%20Manipulation/)
 17. [OOP Part-I](DSA/Lectures/17-OOP%20Part-I/)
 18. [OOP Part-II](DSA/Lectures/18-OOP%20Part-II/)
+19. [Recursion Part-I](DSA/Lectures/19-Recursion%20Part-I/)
 
 ## Assignments
 
@@ -43,3 +44,4 @@ Data Structures and Algorithms in C++.
 16. [Bit Manipulation](DSA/Assignments/16-Bit%20Manipulation/)
 17. [OOP Part-I](DSA/Assignments/17-OOP%20Part-I/)
 18. [OOP Part-II](DSA/Assignments/18-OOP%20Part-II/)
+19. [Recursion Part-I](DSA/Assignments/19-Recursion%20Part-I/)

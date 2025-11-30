@@ -201,6 +201,18 @@
 10. Templates in Function - Generic function programming
 11. Template in Class - Generic class programming
 
+### 19 - Recursion Part-I
+
+1. Factorial Recursion - Classic mathematical recursion
+2. Print Numbers in Decreasing Order - Simple recursive printing
+3. Print Numbers in Non-Decreasing Order - Recursive printing with delayed output
+4. Stack Overflow - Understanding recursion limits
+5. Sum of N Natural Numbers - Mathematical recursion
+6. Nth Fibonacci - Classic recursive sequence
+7. Check if Array is Sorted - Array processing with recursion
+8. First Occurrence - Search algorithm with recursion
+9. Power Calculation O(log n) - Optimized recursive exponentiation
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -388,8 +400,15 @@
 6. Case Study 1 - Complex OOP scenario analysis
 7. Case Study 2 - Advanced OOP design patterns
 
+### 19 - Recursion Part-I
+
+#### Assignment Questions
+
+1. Last Occurrence - Advanced recursive search
+2. Power Calculation O(n) - Linear time recursive exponentiation
+
 ## Summary
 
-- **Total Questions Solved: 223**
-- **Lectures: 145 questions**
-- **Assignments: 78 questions** (63 assignment questions + 22 practice questions)
+- **Total Questions Solved: 234**
+- **Lectures: 154 questions**
+- **Assignments: 80 questions** (65 assignment questions + 22 practice questions)
