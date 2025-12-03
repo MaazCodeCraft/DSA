@@ -183,3 +183,14 @@
 - Search algorithms using recursion
 - Power calculation optimization
 - Recursive problem-solving patterns
+
+## 20 - Recursion Part-II
+
+- Dynamic programming with recursion
+- String processing and manipulation
+- Combinatorial problem solving
+- Pattern generation with constraints
+- Advanced recursive relations
+- Optimization techniques in recursion
+- Complex recursive data structures
+- Mathematical recursion patterns

@@ -213,6 +213,13 @@
 8. First Occurrence - Search algorithm with recursion
 9. Power Calculation O(log n) - Optimized recursive exponentiation
 
+### 20 - Recursion Part-II
+
+1. Tiling Problem - Dynamic programming with recursion
+2. Remove Duplicates in String - String manipulation with recursion
+3. Friends Pairing Problem - Combinatorial recursion
+4. Binary String Problem - Constrained pattern generation
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -407,8 +414,17 @@
 1. Last Occurrence - Advanced recursive search
 2. Power Calculation O(n) - Linear time recursive exponentiation
 
+### 20 - Recursion Part-II
+
+#### Assignment Questions
+
+1. Binary Search - Divide and conquer with recursion
+2. Advanced Recursion Problem - Complex recursive computation
+3. Count Substrings with Same Start and End - String analysis with recursion
+4. Tower of Hanoi - Classic recursive algorithm
+
 ## Summary
 
-- **Total Questions Solved: 234**
-- **Lectures: 154 questions**
-- **Assignments: 80 questions** (65 assignment questions + 22 practice questions)
+- **Total Questions Solved: 242**
+- **Lectures: 158 questions**
+- **Assignments: 84 questions** (69 assignment questions + 22 practice questions)
