@@ -2,6 +2,8 @@
 #include <vector>
 using namespace std;
 
+// Merge Sort for Ascending Order
+
 void merge(int *arr, int si, int mid, int ei) { // TC: O(n)
 
   vector<int> temp;
