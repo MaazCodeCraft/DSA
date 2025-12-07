@@ -194,3 +194,14 @@
 - Optimization techniques in recursion
 - Complex recursive data structures
 - Mathematical recursion patterns
+
+## 21 - Divide & Conquer
+
+- Divide and conquer methodology
+- Merge sort algorithm and implementation
+- Quick sort algorithm and partitioning
+- Time complexity analysis (O(n log n))
+- Sorting in ascending and descending order
+- Search algorithms in modified arrays
+- Recursive problem decomposition
+- Algorithm optimization techniques

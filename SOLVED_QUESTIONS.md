@@ -220,6 +220,14 @@
 3. Friends Pairing Problem - Combinatorial recursion
 4. Binary String Problem - Constrained pattern generation
 
+### 21 - Divide & Conquer
+
+1. Merge Sort for Ascending Order - Stable divide and conquer sorting
+2. Merge Sort for Descending Order - Reverse order sorting
+3. Quick Sort for Ascending Order - In-place divide and conquer sorting
+4. Quick Sort for Descending Order - Reverse partitioning logic
+5. Search in Rotated Sorted Array - Modified binary search
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -423,8 +431,16 @@
 3. Count Substrings with Same Start and End - String analysis with recursion
 4. Tower of Hanoi - Classic recursive algorithm
 
+### 21 - Divide & Conquer
+
+#### Assignment Questions
+
+1. Merge Step Implementation - Core merge function for divide and conquer
+2. Conquer Step Implementation - Divide phase of merge sort
+3. Merge Sort for String Array - Sorting non-numeric data types
+
 ## Summary
 
-- **Total Questions Solved: 242**
-- **Lectures: 158 questions**
-- **Assignments: 84 questions** (69 assignment questions + 22 practice questions)
+- **Total Questions Solved: 250**
+- **Lectures: 163 questions**
+- **Assignments: 87 questions** (72 assignment questions + 22 practice questions)
