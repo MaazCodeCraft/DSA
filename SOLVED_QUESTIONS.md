@@ -228,6 +228,14 @@
 4. Quick Sort for Descending Order - Reverse partitioning logic
 5. Search in Rotated Sorted Array - Modified binary search
 
+### 22 - Time & Space Complexity Part-I
+
+1. Constant Time Complexity - O(1) algorithm analysis
+2. Linear Time Complexity - O(n) algorithm analysis
+3. Quadratic Time Complexity - O(n²) algorithm analysis
+4. Analysis of Bubble Sort - Practical complexity analysis
+5. Logarithmic Time Complexity - O(log n) algorithm analysis
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -439,8 +447,16 @@
 2. Conquer Step Implementation - Divide phase of merge sort
 3. Merge Sort for String Array - Sorting non-numeric data types
 
+### 22 - Time & Space Complexity Part-I
+
+#### Assignment Questions
+
+1. Nested Loop Complexity Analysis - Quadratic time complexity with variable bounds
+2. Triangular Loop Pattern - Lower triangular complexity analysis
+3. Step-wise Loop Analysis - Linear complexity with constant step
+
 ## Summary
 
-- **Total Questions Solved: 250**
-- **Lectures: 163 questions**
-- **Assignments: 87 questions** (72 assignment questions + 22 practice questions)
+- **Total Questions Solved: 258**
+- **Lectures: 168 questions**
+- **Assignments: 90 questions** (75 assignment questions + 22 practice questions)

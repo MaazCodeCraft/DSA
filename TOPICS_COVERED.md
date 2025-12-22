@@ -205,3 +205,15 @@
 - Search algorithms in modified arrays
 - Recursive problem decomposition
 - Algorithm optimization techniques
+
+## 22 - Time & Space Complexity Part-I
+
+- Big O notation fundamentals
+- Time complexity analysis techniques
+- Space complexity concepts
+- Constant time complexity O(1)
+- Linear time complexity O(n)
+- Quadratic time complexity O(n²)
+- Logarithmic time complexity O(log n)
+- Algorithm performance comparison
+- Complexity analysis of common algorithms
