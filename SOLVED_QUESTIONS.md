@@ -236,6 +236,14 @@
 4. Analysis of Bubble Sort - Practical complexity analysis
 5. Logarithmic Time Complexity - O(log n) algorithm analysis
 
+### 23 - Time & Space Complexity Part-II
+
+1. Recursion Time Complexity - Understanding recursive algorithm analysis
+2. Factorial Time Complexity - Linear recursive complexity
+3. Recursive Fibonacci Time Complexity - Exponential complexity analysis
+4. Merge Sort Analysis - Divide and conquer complexity
+5. Power Function Analysis - Optimized recursive complexity
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -455,8 +463,17 @@
 2. Triangular Loop Pattern - Lower triangular complexity analysis
 3. Step-wise Loop Analysis - Linear complexity with constant step
 
+### 23 - Time & Space Complexity Part-II
+
+#### Assignment Questions
+
+1. Nested Loop with Logarithmic Inner Loop - Complex loop analysis
+2. Modified Loop with Multiplication - Unusual loop pattern analysis
+3. Floor Square Root Algorithm - Mathematical complexity analysis
+4. Triangular Nested Loop Pattern - Quadratic complexity with decreasing inner loop
+
 ## Summary
 
-- **Total Questions Solved: 258**
-- **Lectures: 168 questions**
-- **Assignments: 90 questions** (75 assignment questions + 22 practice questions)
+- **Total Questions Solved: 267**
+- **Lectures: 173 questions**
+- **Assignments: 94 questions** (79 assignment questions + 22 practice questions)
