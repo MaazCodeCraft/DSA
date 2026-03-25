@@ -228,3 +228,14 @@
 - Memory usage optimization
 - Advanced complexity calculations
 - Master theorem applications
+
+## 24 - Backtracking
+
+- Backtracking fundamentals and concepts
+- Recursive state-space exploration
+- Backtracking on arrays
+- Subset generation using backtracking
+- Permutation generation using backtracking
+- N-Queens problem and constraint satisfaction
+- Pruning and optimization in backtracking
+- Time and space complexity of backtracking algorithms

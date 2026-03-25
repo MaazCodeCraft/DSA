@@ -27,6 +27,7 @@ Data Structures and Algorithms in C++.
 21. [Divide & Conquer](DSA/Lectures/21-Divide%20&%20Conquer/)
 22. [Time & Space Complexity Part-I](DSA/Lectures/22-Time%20&%20Space%20Complexity%20Part-I/)
 23. [Time & Space Complexity Part-II](DSA/Lectures/23-Time%20&%20Space%20Complexity%20Part-II/)
+24. [Backtracking](DSA/Lectures/24-Backtracking/)
 
 ## Assignments
 
@@ -53,3 +54,4 @@ Data Structures and Algorithms in C++.
 21. [Divide & Conquer](DSA/Assignments/21-Divide%20&%20Conquer/)
 22. [Time & Space Complexity Part-I](DSA/Assignments/22-Time%20&%20Space%20Complexity%20Part-I/)
 23. [Time & Space Complexity Part-II](DSA/Assignments/23-Time%20&%20Space%20Complexity%20Part-II/)
+24. [Backtracking](DSA/Assignments/24-Backtracking/)

@@ -244,6 +244,13 @@
 4. Merge Sort Analysis - Divide and conquer complexity
 5. Power Function Analysis - Optimized recursive complexity
 
+### 24 - Backtracking
+
+1. Backtracking on Array - Understanding backtracking mechanics
+2. Find Subsets - Subset generation using backtracking
+3. Find Permutations - Permutation generation using backtracking
+4. N-Queens Problem - Constraint satisfaction with backtracking
+
 ## Assignments
 
 ### 01 - Flowcharts & Pseudocode
@@ -472,8 +479,14 @@
 3. Floor Square Root Algorithm - Mathematical complexity analysis
 4. Triangular Nested Loop Pattern - Quadratic complexity with decreasing inner loop
 
+### 24 - Backtracking
+
+#### Assignment Questions
+
+1. Rat in a Maze - Path finding using backtracking
+
 ## Summary
 
-- **Total Questions Solved: 267**
-- **Lectures: 173 questions**
-- **Assignments: 94 questions** (79 assignment questions + 22 practice questions)
+- **Total Questions Solved: 273**
+- **Lectures: 177 questions**
+- **Assignments: 95 questions** (80 assignment questions + 22 practice questions)
